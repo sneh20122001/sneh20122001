@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Sneh Patel</h1>
-<h3 align="center">AI Engineer | LLMs & Agentic Systems | India</h3>
+<h3 align="center">AI Engineer | Applied AI & Intelligent Systems Developer | India</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/snehpatel20" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
@@ -11,63 +11,79 @@
 
 ## 🚀 About Me
 
-I am an **AI Engineer** building production-ready LLM-based systems, agentic workflows, and scalable ML services. I focus on taking models from prototype to production — fine-tuning, retrieval-augmented pipelines (RAG), multi-agent orchestration, and reliable deployment (MLOps).
+I am an **AI Engineer** focused on designing and implementing intelligent systems that use data, models, and algorithms to solve real-world problems. My work involves building AI-powered applications, experimenting with large language models (LLMs), and developing solutions that automate reasoning, decision-making, and knowledge extraction.
+
+I enjoy bridging the gap between ideas and working AI applications. I love writing clean, logical, and efficient code to bring innovative AI ideas to life.
 
 * 💼 **Current**: AI Engineer @ **Adrta Technology Pvt. Ltd.** (Jan 2025 – Present)
-* 🧾 **Previous**: Data / ML Engineer @ **Prisom Technology LLP** (Jan 2024 – Dec 2024)
+* 🧾 **Previous**: ML Engineer @ **Prisom Technology LLP** (Jan 2024 – Dec 2024)
 * 🔬 **Internship**: Research Intern @ **BISAG-N** (Jan 2023 – Jun 2023)
-* 📚 **Projects**: 70+ projects across NLP, CV, LLM systems, RAG, and automation pipelines
+* 📚 **Projects**: 70+ projects focusing on LLM apps, generative AI, NLP, computer vision, and data analysis.
 
 ---
 
-## 🧠 What I build
+## 🧠 What I Build
 
-* Production LLM services (chatbots, assistants, knowledge-intensive apps)
-* Retrieval-Augmented Generation (RAG) pipelines and vector search
-* Multi-agent & orchestration systems (CrewAI, LangGraph, custom agent fleets)
-* MLOps: CI/CD for models, containerized deployments, monitoring and model governance
-* API-first AI services (FastAPI + Uvicorn, Docker, Kubernetes, Cloud)
+* AI-driven chatbots and virtual assistants powered by **LLMs** (OpenAI, Gemini, Claude).
+* **Intelligent automation** and **agent-based systems** that handle reasoning and workflows.
+* **Predictive models** and **data-driven insights** for real-world decision-making.
+* Tools that combine **data processing**, **logic design**, and **natural language understanding**.
+
+---
+
+## 💡 My Approach to AI Engineering
+
+An **AI Engineer** focuses on applying AI concepts — not just training models but creating systems that can interact, reason, and adapt. This includes:
+
+* Building models for language, vision, or structured data.
+* Integrating AI capabilities into real applications (like chatbots, recommendation systems, or automation tools).
+* Designing logical problem-solving pipelines that combine rules and learning.
+* Working on **prompt engineering**, **LLM fine-tuning**, and **AI workflow orchestration**.
+
+I believe good AI systems are not only smart but **efficient, explainable, and reliable**. That’s why I pay special attention to writing logical, modular, and reusable code.
 
 ---
 
 ## 🧰 Tech Stack
 
-### Languages & Fundamentals
+### Languages & Core Skills
 
-`Python` · `SQL` · `Bash` · `Git`
+`Python` · `SQL` · `Git` · `Logic Building` · `Problem Solving`
 
-### ML / DL / LLM
+### AI / ML / LLMs
 
-`PyTorch` · `TensorFlow` · `scikit-learn` · `LLMs (OpenAI, Anthropic Claude, Google Gemini)` · `RAG` · `Fine-tuning`
+`scikit-learn` · `PyTorch` · `TensorFlow` · `OpenAI` · `Gemini` · `Claude` · `RAG` · `LangChain` · `CrewAI` · `LangGraph`
 
-### Agents & Orchestration
+### Web & Tools
 
-`LangChain` · `LangGraph` · `CrewAI` · `Autogen` · `Custom agent architectures`
+`FastAPI` · `Flask` · `Django` · `Google Colab` · `Jupyter Notebook`
 
-### Backend & Deployment
+### Data & Visualization
 
-`FastAPI` · `Uvicorn` · `Flask` · `Docker` · `Heroku` · `Kubernetes` · `GitHub Actions`
-
-### Data & Notebooks
-
-`pandas` · `numpy` · `matplotlib` · `seaborn` · `Jupyter Notebook` · `Google Colab` · `Tableau`
+`pandas` · `numpy` · `matplotlib` · `seaborn` · `Tableau`
 
 ### Productivity & AI Tools
 
-`Cursor` · `Lovable` · `BoltAI` · `Perplexity` · `OpenAI Whisper` · `Prompt Engineering` · `n8n (MCP integrations)`
+`Cursor` · `Lovable` · `BoltAI` · `Perplexity` · `Prompt Engineering` · `Whisper` · `n8n (MCP)`
 
-### IDEs & Misc
+### Platforms & IDEs
 
 `VS Code` · `Excel` · `Google Sheets` · `Figma`
 
 ---
 
-## 📈 Highlights & Impact
+## 🔥 Highlights
 
-* Designed and deployed **RAG pipelines** to power knowledge-grounded assistants and internal search.
-* Built **end-to-end LLM APIs** with FastAPI + Uvicorn, containerized with Docker and deployed to cloud environments.
-* Implemented **agentic workflows** and multi-agent orchestration using CrewAI and LangGraph for automation tasks.
-* Delivered **70+ projects** spanning CV (YOLO), NLP, LLM integrations, and data-driven dashboards.
+* Developed **AI assistants** using LLMs for question-answering, task execution, and workflow automation.
+* Created **intelligent systems** that can reason through data and respond logically.
+* Built **data-driven apps** combining statistical models and natural language interfaces.
+* Worked on projects that required strong **logic development**, algorithm design, and clean programming structure.
+
+---
+
+## 🧩 My Belief
+
+> “AI engineering is not just about using models — it’s about building logic, structure, and intelligence into systems that learn and adapt.”
 
 ---
 
@@ -81,24 +97,4 @@ I am an **AI Engineer** building production-ready LLM-based systems, agentic wor
 
 ---
 
-## 📊 GitHub Stats
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=sneh20122001&show_icons=true&locale=en" alt="GitHub Stats"/></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sneh20122001&" alt="GitHub Streak"/></p>
-
----
-
-## 🎯 Want this README customized?
-
-If you want, I can:
-
-* Add a **pinned projects** section with short project summaries (you can give 3–6 repo names),
-* Create a **dynamic version** with GitHub Actions to auto-update stats or show top languages,
-* Produce **project cards** (small badges + links) for your top work.
-
-Just tell me which option you want and I’ll update the README accordingly.
-
----
-
-⭐ **Turning LLMs into reliable, production-ready systems.**
+⭐ **Building intelligent systems through logic, code, and creativity.**
