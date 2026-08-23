@@ -19,6 +19,18 @@
 
 <br/>
 
+### ⚡ Executive Highlights & Quick Stats
+
+<table width="100%">
+  <tr>
+    <td width="33%" align="center"><b>💼 Current Role</b><br/>Senior AI Engineer & Tech Lead</td>
+    <td width="33%" align="center"><b>🎓 Campus Recruitment</b><br/>Campus Placement Technical Interviewer</td>
+    <td width="33%" align="center"><b>📚 Project Portfolio</b><br/>70+ AI, Agentic & Core Python Systems</td>
+  </tr>
+</table>
+
+<br/>
+
 ```bash
 ⚡ sneh@ai-core:~$ cat profile.json
 {
@@ -33,6 +45,14 @@
   "leadership": ["Team Lead", "Mentoring", "Campus Placement Technical Interviewer"]
 }
 ```
+
+---
+
+### 🏆 Profile Trophies & Achievements
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sneh20122001&theme=dracula&no-frame=true&column=6" width="100%" alt="GitHub Trophies" />
+</div>
 
 ---
 
@@ -76,6 +96,18 @@
     </td>
   </tr>
 </table>
+
+---
+
+### 🧰 AI & Vibe Coding Workflow Matrix
+
+| AI Tool / Framework | Engineering Specialty & Workflow |
+| :--- | :--- |
+| 🤖 **Antigravity** | Agentic workflow automation, IDE orchestration & multi-agent system design. |
+| ⚡ **Cursor & Windsurf** | High-velocity AI code generation, contextual refactoring & rapid prototyping. |
+| 🧠 **Claude Code & Kimi** | Complex logic building, deep code analysis, and large context architectural reasoning. |
+| 🛠️ **OpenCode & Vibe Coding** | Open-source LLM code generation, prompt engineering & vibe coding execution. |
+| 🤖 **Agent Development Kit (ADK) & MCP** | Building protocol-compliant tool servers, multi-agent networks, and RAG pipelines. |
 
 ---
 
@@ -163,6 +195,14 @@
 #### 📊 Contribution Activity Graph
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=sneh20122001&theme=react-dark&hide_border=true" width="100%" alt="Activity Graph" />
 
+</div>
+
+---
+
+### 💭 Daily Developer Motto
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" width="100%" alt="Dev Quote" />
 </div>
 
 ---
