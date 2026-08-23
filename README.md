@@ -48,10 +48,10 @@
 
 ---
 
-### 🏆 Profile Trophies & Achievements
+### 🏆 Profile Summary & Achievements
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sneh20122001&theme=dracula&no-frame=true&column=6" width="100%" alt="GitHub Trophies" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sneh20122001&theme=dracula" width="100%" alt="GitHub Profile Summary" />
 </div>
 
 ---
