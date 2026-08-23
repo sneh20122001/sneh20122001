@@ -108,13 +108,13 @@
 
 <div align="center">
 
-#### 🔥 Contribution Streak
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sneh20122001&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="90%" alt="GitHub Streak Stats" />
+#### 🟩 Contribution Heatmap
+<img src="https://ghchart.rshah.org/00d2ff/sneh20122001" width="100%" alt="Sneh's GitHub Contribution Heatmap" />
 
 <br/><br/>
 
 #### 📊 Contribution Activity Graph
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sneh20122001&theme=react-dark&hide_border=true" width="90%" alt="Activity Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sneh20122001&theme=react-dark&hide_border=true" width="100%" alt="Activity Graph" />
 
 </div>
 
