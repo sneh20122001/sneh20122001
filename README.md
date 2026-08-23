@@ -1,6 +1,8 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,12,24&height=200&section=header&text=Sneh%20Patel&fontSize=52&fontColor=ffffff&animation=twinkling&desc=Senior%20AI%20Engineer%20%7C%20Technical%20Lead&descSize=20&descAlignColor=00f2fe&descAlign=50" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,12,24&height=210&section=header&text=Sneh%20Patel&fontSize=58&fontColor=ffffff&animation=twinkling" width="100%" alt="Header Banner" />
 </div>
+
+<br/>
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D2FF&center=true&vCenter=true&width=650&lines=Senior+AI+Engineer+%26+Technical+Lead;Core+Python+%26+System+Architecture+Specialist;Vibe+Coding+%26+Agentic+AI+Architect;Campus+Placement+Technical+Interviewer" alt="Typing SVG" />
