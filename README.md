@@ -150,6 +150,11 @@
 
 <div align="center">
 
+#### 🐍 Contribution Snake Game
+<img src="https://raw.githubusercontent.com/sneh20122001/sneh20122001/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Snake Animation" />
+
+<br/><br/>
+
 #### 🟩 Contribution Heatmap
 <img src="https://ghchart.rshah.org/00d2ff/sneh20122001" width="100%" alt="Sneh's GitHub Contribution Heatmap" />
 
